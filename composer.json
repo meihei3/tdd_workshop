@@ -1,0 +1,18 @@
+{
+    "name": "y-ema/tdd-workshop",
+    "autoload": {
+        "psr-4": {
+            "MyTest\\": "tests/",
+            "TddWorkshop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "meihei3 - yohei.ema",
+            "email": "24579635+meihei3@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
